@@ -1,3 +1,3 @@
-Star Wars card game. Yes, the one Han one the Mellinium Falcon playing.
+Star Wars card game. Yes, the one Han won the Mellinium Falcon playing.
 
 Verrry buggy....
